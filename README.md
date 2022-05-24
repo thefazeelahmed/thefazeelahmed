@@ -65,7 +65,7 @@ class Bio extends SoftwareDeveloper {
 ![](https://komarev.com/ghpvc/?username=thefazeelqureshi&style=flat)
 
 <!-- Profile View Count -->
-<a href="https://github.com/thefazeelqureshi">
+<a href="https://github.com/thefazeelahmed">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thefazeelahmed&theme=buefy&show_icons=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefazeelahmed&theme=buefy&layout=compact&count_private=true" />
 </a>
