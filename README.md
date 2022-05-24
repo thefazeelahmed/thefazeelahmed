@@ -25,7 +25,7 @@ import SoftwareDeveloper from 'fazeelahmed';
 class Bio extends SoftwareDeveloper {
   name     = 'Fazeel Ahmed';
   title    = 'Software Engineer';
-  company  = 'Remote | Freelancer';
+  company  = 'IR Solutions';
   location = 'Rawalipndi, PK';
   graduated = '2019';
 }
