@@ -58,12 +58,6 @@ class Bio extends SoftwareDeveloper {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
-![Metrics](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg)
-![Most used languages](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/language.svg)
-![Notable contributions](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/achievements.svg)
-
-
 
 [![Telegram](https://img.shields.io/badge/-thefazeelahmed-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/thefazeelahmed)
 [![Instagram](https://img.shields.io/badge/-thefazeelahmed-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/thefazeelahmed)
