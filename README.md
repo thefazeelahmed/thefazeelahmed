@@ -72,7 +72,6 @@ class Bio extends SoftwareDeveloper {
 
 <br/>
 
-<a href="https://app.daily.dev/thefazeelahmed"><img src="https://api.daily.dev/devcards/ddecc304807f42eaa5a25adc29d338d5.png?r=owi" width="400" alt="Fazeel Ahmed's Dev Card"/></a>
 
 
 ⭐️ From [Fazeel Ahmed](https://github.com/thefazeelqureshi)
