@@ -60,7 +60,7 @@ class Bio extends SoftwareDeveloper {
 
 
 [![Instagram](https://img.shields.io/badge/-kbdoteth-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/kbdoteth)
-[![Reddit](https://img.shields.io/badge/-kbdoteth-c13584?style=flat&labelColor=c13584&logo=reddit&logoColor=white)](https://www.instagram.com/kbdoteth)
+[![Reddit](https://img.shields.io/badge/-kbdoteth-c13584?style=flat&labelColor=c13584&logo=reddit&logoColor=white)](https://www.reddit.com/kbdoteth)
 
 <!-- Profile View Count -->
 <a href="https://github.com/thefazeelahmed">
